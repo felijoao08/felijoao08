@@ -17,10 +17,10 @@ Fique por dentro das minhas estatísticas e atividades aqui no GitHub 🚀
 ![João Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felijoao08&show_icons=true&theme=tokyonight)
 
 🌐 Meus Contatos  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaofelipe_jfdev?igsh=aWwwMm55MGJ0NXN3)  
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584991423660)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@exemplo.com) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipesouza09099@gmail.com) 
 
 💼 Meu Portfólio  
-[![Portfólio](https://img.shields.io/badge/-Acesse%20meu%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportifolio.com)  
-✨ Explore meus projetos e descubra soluções criativas em frontend, backend e sistemas completos.  
+[![Portfólio](https://img.shields.io/badge/-Acesse%20meu%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://joaofelipesl.github.io/Portifolio_JoaoFelipe/)  
+Explore meus projetos e descubra soluções criativas em frontend, backend e sistemas completos.  

@@ -14,4 +14,4 @@ Minhas principais habilidades envolvem o domínio das seguintes tecnologias
 ![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Fique por dentro das minnhas estatiticas aqui no GitHub
-![João Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felijoao08&show_icons=true&theme=cobalt)
+![João Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felijoao08&show_icons=true&theme=tokyonight)

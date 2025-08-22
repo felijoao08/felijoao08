@@ -13,5 +13,14 @@ Minhas principais habilidades envolvem o domínio das seguintes tecnologias
 ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Fique por dentro das minnhas estatiticas aqui no GitHub
+Fique por dentro das minhas estatísticas e atividades aqui no GitHub 🚀
 ![João Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felijoao08&show_icons=true&theme=tokyonight)
+
+🌐 Meus Contatos  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584991423660)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@exemplo.com) 
+
+💼 Meu Portfólio  
+[![Portfólio](https://img.shields.io/badge/-Acesse%20meu%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportifolio.com)  
+✨ Explore meus projetos e descubra soluções criativas em frontend, backend e sistemas completos.  
